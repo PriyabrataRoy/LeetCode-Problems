@@ -15,10 +15,10 @@ This repo contains all my solutions, explanations, and progress.
 
 ## 📅 Progress Tracker
 
-| Day   |                           Problem                  |      Solution Link               |
-|-------|----------------------------------------------------|----------------------------------|
+| Day   |                           Problem                                        |      Solution Link               |
+|-------|----------------------------------------------------------------|----------------------------------|
 | Day 1 | [Two Sum](https://leetcode.com/problems/two-sum/)  | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Arrays/TwoSum.java)   |
-
+| Day 2 | [Remove Element](https://leetcode.com/problems/remove-element/)| [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Arrays/RemoveElement.java)|
 ---
 
 ## 💻 Tech Stack
