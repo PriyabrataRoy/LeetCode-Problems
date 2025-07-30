@@ -17,7 +17,7 @@ This repo contains all my solutions, explanations, and progress.
 
 | Day   |                           Problem                  |      Solution Link               |
 |-------|----------------------------------------------------|----------------------------------|
-| Day 1 | [Two Sum](https://leetcode.com/problems/two-sum/)  | [Solution](./Day1-TwoSum.java)   |
+| Day 1 | [Two Sum](https://leetcode.com/problems/two-sum/)  | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Arrays/TwoSum.java)   |
 
 ---
 
@@ -28,4 +28,4 @@ This repo contains all my solutions, explanations, and progress.
 ---
 
 ## 🌟 Let's Connect
-[LinkedIn](www.linkedin.com/in/priyabrata-roy-947ba3304) | [Twitter](https://x.com/Priyo8298966333)
+[LinkedIn](https://www.linkedin.com/in/priyabrata-roy-947ba3304/) | [Twitter](https://x.com/Priyo8298966333)
