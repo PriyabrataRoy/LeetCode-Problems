@@ -19,7 +19,8 @@ This repo contains all my solutions, explanations, and progress.
 |-------|----------------------------------------------------------------|----------------------------------|
 | Day 1 | [Two Sum](https://leetcode.com/problems/two-sum/)  | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Arrays/TwoSum.java)   |
 | Day 2 | [Remove Element](https://leetcode.com/problems/remove-element/)| [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Arrays/RemoveElement.java)|
-| Day 3 |Span Of Array |  [Solution] (https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Arrays/SpanOfArray.java)|         
+| Day 3 |Span Of Array |  [Solution] (https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Arrays/SpanOfArray.java)|        
+| Day 4 |[Find A Element In The Array](https://youtu.be/awuSQW2F0AM?si=wjRKJfWEzZSDFCoz)| [Solution] (https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Arrays/FindElementInArray.java)
 ---
 
 ## 💻 Tech Stack
