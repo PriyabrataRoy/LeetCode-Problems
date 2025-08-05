@@ -9,7 +9,6 @@ public class BarChart {
         int n = ob.nextInt();
         int [] arr = new int[n];
 
-
         //input
         for(int i=0;i<n;i++){
             System.out.print("Enter The No. = ");
@@ -35,7 +34,6 @@ public class BarChart {
             }
            }
            System.out.println();
-
           
         }
 
