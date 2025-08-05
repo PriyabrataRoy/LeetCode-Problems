@@ -21,8 +21,8 @@ This repo contains all my solutions, explanations, and progress.
 | Day 2 | [Remove Element](https://leetcode.com/problems/remove-element/)| [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Arrays/RemoveElement.java)|
 | Day 3 |Span Of Array |  [Solution] (https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Arrays/SpanOfArray.java)|        
 | Day 4 |[Find A Element In The Array](https://youtu.be/awuSQW2F0AM?si=wjRKJfWEzZSDFCoz)| [Solution] (https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Arrays/FindElementInArray.java)|
-| Day 5 | [BarChart](https://youtu.be/85gIj4eBdBA?si=GKISVpse5eXYivZj)| [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Arrays/BarChart.java)|
-| Day 6 | [Sum Of Two Arrays](https://youtu.be/aSb29e8OoZs?si=CiOuj2Yf8V0d88SM)| [Solution]( https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Arrays/SumOfTwoArrays.java)|
+| Day 5 | [BarChart](https://youtu.be/85gIj4eBdBA?si=GKISVpse5eXYivZj)| [Solution] (https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Arrays/BarChart.java)|
+| Day 6 | [Sum Of Two Arrays](https://youtu.be/aSb29e8OoZs?si=CiOuj2Yf8V0d88SM)| [Solution] ( https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Arrays/SumOfTwoArrays.java)|
 ---
 
 ## 💻 Tech Stack
