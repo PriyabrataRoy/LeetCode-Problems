@@ -24,6 +24,7 @@ This repo contains all my solutions, explanations, and progress.
 | Day 5 | [BarChart](https://youtu.be/85gIj4eBdBA?si=GKISVpse5eXYivZj)| [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Arrays/BarChart.java)|
 | Day 6 | [Sum Of Two Arrays](https://youtu.be/aSb29e8OoZs?si=CiOuj2Yf8V0d88SM)| [Solution]( https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Arrays/SumOfTwoArrays.java)|
 | Day 7 | [Difference Of Two Arrays](https://youtu.be/LQom9iFG1F0?si=2jS2mTwjOmRqa6Ci) | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Arrays/DifferenceOfTwoArrays.java) |
+| Day 8 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) | [Solution]
 ---
 
 ## 💻 Tech Stack
