@@ -21,4 +21,5 @@ class TwoSum {
         int[] result = obj.twoSum(nums, target);
         System.out.println(Arrays.toString(result)); 
     }
-}
+}   
+

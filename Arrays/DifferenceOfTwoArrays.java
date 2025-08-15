@@ -51,6 +51,7 @@ public class DifferenceOfTwoArrays {
       //Print The Result
       System.out.println(Arrays.toString(arr2));
       System.out.println(Arrays.toString(arr1));
+      System.out.println(Arrays.toString(diff));
       System.out.print("Ans = ");
       int idx = 0;
       while(idx<diff.length){
