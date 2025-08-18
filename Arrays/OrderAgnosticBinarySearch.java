@@ -1,4 +1,4 @@
-public class BinarySearch {
+public class OrderAgnosticBinarySearch {
     public static int binarySearch(int arr[], int target){
 
         int start=0;
