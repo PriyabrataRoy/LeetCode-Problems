@@ -27,6 +27,7 @@ This repo contains all my solutions, explanations, and progress.
 | Day 8 | Revised All Previous Q | Revised All Previous Q |
 | Day 9 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Arrays/Find_Numbers_With_Even_NumberOfDigits.java) |
 | Day 10 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/description) | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Arrays/Richest_Customer_Wealth.java) |
+| Day 11 | Order Agnostic Binary Search | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Arrays/OrderAgnosticBinarySearch.java) |
 ---
 
 ## 💻 Tech Stack
