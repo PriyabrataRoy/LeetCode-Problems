@@ -29,6 +29,7 @@ This repo contains all my solutions, explanations, and progress.
 | Day 10 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/description) | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Arrays/Richest_Customer_Wealth.java) |
 | Day 11 | Order Agnostic Binary Search | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Arrays/OrderAgnosticBinarySearch.java) |
 | Day 12 |[Remove Duplicate From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Arrays/RemoveDuplicatesfromSortedArray.java) |
+| Day 13 | Celling Of A Number | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Arrays/CellingOfANumber.java) |
 ---
 
 ## 💻 Tech Stack
