@@ -31,8 +31,8 @@ This repo contains all my solutions, explanations, and progress.
 | Day 12 |[Remove Duplicate From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Arrays/RemoveDuplicatesfromSortedArray.java) |
 | Day 13 | Celling Of A Number | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Arrays/CellingOfANumber.java) |
 | Day 14 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description)
-Floor of a Number problem  |[Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Arrays/Find_Smallest_Letter_Greater_Than_target.java)
-[Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Arrays/FloorOfANumber.java) | 
+          Floor of a Number problem  |[Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Arrays/Find_Smallest_Letter_Greater_Than_target.java)
+                                      [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Arrays/FloorOfANumber.java) | 
                   
 ---
 
