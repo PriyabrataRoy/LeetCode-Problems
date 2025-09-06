@@ -1,11 +1,13 @@
 // https://www.geeksforgeeks.org/dsa/find-position-element-sorted-array-infinite-numbers/
 public class Finding_No_On_Infinite_Array {
-
+    
     static int ans(int[] arr,int target){
+        //start with 1st 2 index 
         int start = 0;
         int end = 1;
         while (target>arr[end]) {
-            start = end+1;          
+            start = end+1;
+            //By the time window double          
             int tempend =  (end+1)*2;
             end = tempend+1;
         }
@@ -28,14 +30,13 @@ public class Finding_No_On_Infinite_Array {
             }
             else{
                 start = mid +1;
-            }
-          
+            }          
         }
           return -1;
     }
     public static void main(String as[]){
         int arr[] = {2,3,4,5,6,7,8,9,14,56,78,90,95,96,98,100};
-        int target = 100;
+        int target = 56;
         System.out.println(target+" Found At "+ans(arr,target)+" Index");
     }
 }
