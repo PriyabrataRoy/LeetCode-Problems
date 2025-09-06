@@ -32,8 +32,7 @@ This repo contains all my solutions, explanations, and progress.
 | Day 13| Ceiling Of A Number                                                                      | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Arrays/CellingOfANumber.java) |
 | Day 14| [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description) <br> Floor Of A Number | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Arrays/Find_Smallest_Letter_Greater_Than_target.java) <br> [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Arrays/FloorOfANumber.java) |
 | Day 15 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description) | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Arrays/Find_First_And_Last_Position_Of_Element_In_Sorted_Array.java) |
-| Day 16 | [Find Position in Infinite Sorted Array](https://www.geeksforgeeks.org/dsa/find-position-element-sorted-array-infinite-numbers/) | 
-[Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Arrays/Finding_No_On_Infinite_Array.java) |
+| Day 16 | [Find Position in Infinite Sorted Array](https://www.geeksforgeeks.org/dsa/find-position-element-sorted-array-infinite-numbers/) | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Arrays/Finding_No_On_Infinite_Array.java) |
 
                   
 ---
