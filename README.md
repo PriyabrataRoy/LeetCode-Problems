@@ -34,6 +34,7 @@ This repo contains all my solutions, explanations, and progress.
 | Day 15 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description) | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Arrays/Find_First_And_Last_Position_Of_Element_In_Sorted_Array.java) |
 | Day 16 | [Find Position in Infinite Sorted Array](https://www.geeksforgeeks.org/dsa/find-position-element-sorted-array-infinite-numbers/) | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Arrays/Finding_No_On_Infinite_Array.java) |
 | Day 17 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Arrays/Peak_Index_in_Mountain_Array.java) |
+| Day 18 | [ Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/description) | [Solution]()
 
                   
 ---
