@@ -35,6 +35,7 @@ This repo contains all my solutions, explanations, and progress.
 | Day 16 | [Find Position in Infinite Sorted Array](https://www.geeksforgeeks.org/dsa/find-position-element-sorted-array-infinite-numbers/) | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Arrays/Finding_No_On_Infinite_Array.java) |
 | Day 17 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Arrays/Peak_Index_in_Mountain_Array.java) |
 | Day 18 | [ Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/description) | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Arrays/FindInMountainArray.java) |
+| Day 19 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Arrays/Search_In_Rotated_Sorted_Array.java) |
 
                   
 ---
