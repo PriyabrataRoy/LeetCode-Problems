@@ -65,7 +65,7 @@ public class Search_In_Rotated_Sorted_Array {
         return -1;
     }
 
-    // Main method for execution
+   
     public static void main(String[] args) {
         Search_In_Rotated_Sorted_Array sol = new Search_In_Rotated_Sorted_Array();
 
