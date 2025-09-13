@@ -26,16 +26,17 @@ class MountainArrayImpl implements MountainArray {
 
 class FindInMountainArray {
     public int findInMountainArray(int target, MountainArray mountainArr) {
-        int peek = peekElement(mountainArr);
-        int ans = orderAgnosticBinarySearch(target, mountainArr, 0, peek);
+        int peek = peekElement(mountainArr);//to find the peek element
+        int ans = orderAgnosticBinarySearch(target, mountainArr, 0, peek);//to find the answer
         int arrlength = mountainArr.length();
 
-        if (ans != -1) {
+        if (ans != -1) { //if ans is found on asc part
             return ans;
         }
-        return orderAgnosticBinarySearch(target, mountainArr, peek + 1, arrlength - 1);
+        return orderAgnosticBinarySearch(target, mountainArr, peek + 1, arrlength - 1);//if ans is not found on asc part
     }
 
+    //To Find peek Element
     public int peekElement(MountainArray mountainArr) {
         int start = 0;
         int end = mountainArr.length() - 1;
@@ -52,6 +53,7 @@ class FindInMountainArray {
         return start;
     }
 
+        //To search the target in both part
     public int orderAgnosticBinarySearch(int target, MountainArray mountainArr, int start, int end) {
         boolean asc = mountainArr.get(start) < mountainArr.get(end);
 
