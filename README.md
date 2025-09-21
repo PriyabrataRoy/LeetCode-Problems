@@ -39,6 +39,7 @@ This repo contains all my solutions, explanations, and progress.
 | Day 20 | [Rotation Count in a Rotated Sorted array](https://www.geeksforgeeks.org/dsa/find-rotation-count-rotated-sorted-array/) | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Arrays/Rotation_Count_in_a_Rotated_Sorted_Array.java) |
 | Day 21 | Search In Rotated Sorted Array With Duplicate Elements | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Arrays/Search_In_Rotated_Sorted_Array_With_Duplicate_Elements.java) |
 | Day 22 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Arrays/Search_Insert_Position.java) |
+| Day 23 | [First Bad Version](https://leetcode.com/problems/first-bad-version/description/) | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Arrays/First_Bad_Version.java) |
                   
 ---
 
