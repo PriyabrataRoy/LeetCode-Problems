@@ -41,6 +41,7 @@ This repo contains all my solutions, explanations, and progress.
 | Day 22 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Arrays/Search_Insert_Position.java) |
 | Day 23 | [First Bad Version](https://leetcode.com/problems/first-bad-version/description/) | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Arrays/First_Bad_Version.java) |
 | Day 24 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Arrays/Valid_Perfect_Square.java) |
+| Day 25 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Arrays/Sqrt_x.java) |
                   
 ---
 
