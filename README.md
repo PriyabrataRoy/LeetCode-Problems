@@ -43,6 +43,7 @@ This repo contains all my solutions, explanations, and progress.
 | Day 24 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Arrays/Valid_Perfect_Square.java) |
 | Day 25 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Arrays/Sqrt_x.java) |
 | Day 26 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Arrays/Find_Peak_Element.java) |
+| Day 27 | [Count Hills and Valleys in an Array](https://leetcode.com/problems/count-hills-and-valleys-in-an-array/description/) | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Arrays/Count_Hill_Valley.java) |
                   
 ---
 
