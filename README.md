@@ -42,6 +42,7 @@ This repo contains all my solutions, explanations, and progress.
 | Day 23 | [First Bad Version](https://leetcode.com/problems/first-bad-version/description/) | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Arrays/First_Bad_Version.java) |
 | Day 24 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Arrays/Valid_Perfect_Square.java) |
 | Day 25 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Arrays/Sqrt_x.java) |
+| Day 26 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Arrays/Find_Peak_Element.java) |
                   
 ---
 
