@@ -45,6 +45,7 @@ This repo contains all my solutions, explanations, and progress.
 | Day 26 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Arrays/Find_Peak_Element.java) |
 | Day 27 | [Count Hills and Valleys in an Array](https://leetcode.com/problems/count-hills-and-valleys-in-an-array/description/) | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Arrays/Count_Hill_Valley.java) |
 | Day 28 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/description/) | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Arrays/Split_Array_Largest_Sum.java) |
+| Day 29 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Arrays/Find_Minimum_in_Rotated_Sorted_Array.java) |
                   
 ---
 
