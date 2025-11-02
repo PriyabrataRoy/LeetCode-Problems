@@ -48,6 +48,8 @@ This repo contains all my solutions, explanations, and progress.
 | Day 29 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Arrays/Find_Minimum_in_Rotated_Sorted_Array.java) |
 | Day 30 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/) | [Soluion](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/BinarySearchIn2DArray/A_RowWiseAndColumnWiseSortedArray.java) |
 | Day 31 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/BinarySearchIn2DArray/B_SearchInASortedMatrix.java) |
+| Day 32 | [BubbleSort,Selection Sort,Insertion Sort] | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/tree/main/Sorting) |
+| Day 33 | [Cyclic Sort] | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Sorting/D_Cyclic_Sort.java) |
                   
 ---
 
