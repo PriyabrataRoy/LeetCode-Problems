@@ -50,6 +50,7 @@ This repo contains all my solutions, explanations, and progress.
 | Day 31 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/BinarySearchIn2DArray/B_SearchInASortedMatrix.java) |
 | Day 32 | [BubbleSort,Selection Sort,Insertion Sort] | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/tree/main/Sorting) |
 | Day 33 | [Cyclic Sort] | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Sorting/D_Cyclic_Sort.java) |
+| Day 34 | [Missing Number](https://leetcode.com/problems/missing-number/description/) | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Sorting/D1_Missing_Number.java) |
                   
 ---
 
