@@ -51,6 +51,7 @@ This repo contains all my solutions, explanations, and progress.
 | Day 32 | [BubbleSort,Selection Sort,Insertion Sort] | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/tree/main/Sorting) |
 | Day 33 | [Cyclic Sort] | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Sorting/D_Cyclic_Sort.java) |
 | Day 34 | [Missing Number](https://leetcode.com/problems/missing-number/description/) | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Sorting/D1_Missing_Number.java) |
+| Day 35 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Sorting/D2_Find_Disappeared_Numbers.java) |
                   
 ---
 
