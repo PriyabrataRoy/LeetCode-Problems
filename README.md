@@ -53,6 +53,7 @@ This repo contains all my solutions, explanations, and progress.
 | Day 34 | [Missing Number](https://leetcode.com/problems/missing-number/description/) | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Sorting/D1_Missing_Number.java) |
 | Day 35 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Sorting/D2_Find_Disappeared_Numbers.java) |
 | Day 36 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Sorting/D3_Find_Duplicate_Number.java) |
+| Day 37 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Sorting/D4_Find_All_Duplicates_in_an_Array.java) |
                   
 ---
 
