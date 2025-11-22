@@ -56,6 +56,7 @@ This repo contains all my solutions, explanations, and progress.
 | Day 37 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Sorting/D4_Find_All_Duplicates_in_an_Array.java) |
 | Day 38 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/description/) | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Sorting/D5_Set_Mismatch.java) |
 | Day 39 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Sorting/D6_First_Missing_Positive.java) |
+| Day 40 | [Palindrome String] | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/String/A_Palindrom_String.java)  |
                   
 ---
 
