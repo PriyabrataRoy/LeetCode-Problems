@@ -57,6 +57,7 @@ This repo contains all my solutions, explanations, and progress.
 | Day 38 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/description/) | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Sorting/D5_Set_Mismatch.java) |
 | Day 39 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Sorting/D6_First_Missing_Positive.java) |
 | Day 40 | [Palindrome String] | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/String/A_Palindrom_String.java)  |
+| Day 41 | [Fibonacci Series] <br> [Binary Search] | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Recursion/A_Fibonacci_Serise.java) <br> [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Recursion/B_BinarySeasrch.java) |
                   
 ---
 
