@@ -58,6 +58,8 @@ This repo contains all my solutions, explanations, and progress.
 | Day 39 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Sorting/D6_First_Missing_Positive.java) |
 | Day 40 | [Palindrome String] | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/String/A_Palindrom_String.java)  |
 | Day 41 | [Fibonacci Series] <br> [Binary Search] | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Recursion/A_Fibonacci_Serise.java) <br> [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Recursion/B_BinarySeasrch.java) |
+| Day 42 | [Time and Space Complexity] | [Solution] |
+|Day 43 | [Factorial of a Number] <br> [Sum of N Numbers] <br> [Sum of Digits of a Number] | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Recursion/D_Factorial_Of_A_No.java) <br> [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Recursion/E_Sum_Of_N_No.java) <br> [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Recursion/F_Sum_Of_Digit.java) |
                   
 ---
 
