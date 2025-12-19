@@ -61,6 +61,7 @@ This repo contains all my solutions, explanations, and progress.
 | Day 42 | [Time and Space Complexity] | [Solution] |
 |Day 43 | [Factorial of a Number] <br> [Sum of N Numbers] <br> [Sum of Digits of a Number] | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Recursion/D_Factorial_Of_A_No.java) <br> [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Recursion/E_Sum_Of_N_No.java) <br> [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Recursion/F_Sum_Of_Digit.java) |
 | Day 44 | [Product of Digits of a Number] <br> [Reverse of a Number] | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Recursion/G_Product_Of_Digit.java) <br> [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Recursion/H_Reverse_Of_A_Number.java) |
+| Day 45 | [Palindrome Number] <br> [Count Zeros in a Number] | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Recursion/I_Palindrome_No.java) <br> [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Recursion/J_CountZeros.java) |
                   
 ---
 
