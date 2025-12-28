@@ -63,6 +63,7 @@ This repo contains all my solutions, explanations, and progress.
 | Day 44 | [Product of Digits of a Number] <br> [Reverse of a Number] | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Recursion/G_Product_Of_Digit.java) <br> [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Recursion/H_Reverse_Of_A_Number.java) |
 | Day 45 | [Palindrome Number] <br> [Count Zeros in a Number] | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Recursion/I_Palindrome_No.java) <br> [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Recursion/J_CountZeros.java) |
 | Day 46 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/description/) | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Recursion/K_Number_of_Steps_to_Reduce_a_Number_to_Zero.java) |
+| Day 47 | [Merge Sort using a recursive divide-and-conquer approach] |[Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Recursion/Sorting/D_Merge_Sort.java) |
                   
 ---
 
