@@ -47,11 +47,12 @@ public class D_Merge_Sort {
         }
 
         return mix;
+        
     }
 
     public static void main(String[] args) {
-        int arr[] = {3,5,9,19,32,4,6,8};
+        int arr[] = {5,4,3,2,1};
         int[] ans = mergeSort(arr);
-        System.out.println(Arrays.toString(ans));;
+        System.out.println(Arrays.toString(ans));
     }
 }
