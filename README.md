@@ -65,6 +65,7 @@ This repo contains all my solutions, explanations, and progress.
 | Day 46 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/description/) | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Recursion/K_Number_of_Steps_to_Reduce_a_Number_to_Zero.java) |
 | Day 47 | [Merge Sort using a recursive divide-and-conquer approach] |[Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Recursion/Sorting/D_Merge_Sort.java) |
 | Day 48 | [In Place Merge Sort] | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Recursion/Sorting/D1_MergeSort_InPlace.java) |
+| Day 49 | [Quick Sort] | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Recursion/Sorting/E_Quick_Sort.java) |
                   
 ---
 
