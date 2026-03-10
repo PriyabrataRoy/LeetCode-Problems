@@ -66,6 +66,12 @@ This repo contains all my solutions, explanations, and progress.
 | Day 47 | [Merge Sort using a recursive divide-and-conquer approach] |[Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Recursion/Sorting/D_Merge_Sort.java) |
 | Day 48 | [In Place Merge Sort] | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Recursion/Sorting/D1_MergeSort_InPlace.java) |
 | Day 49 | [Quick Sort] | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Recursion/Sorting/E_Quick_Sort.java) |
+| Day 50 | DBMS fundamentals and practiced SQL queries | [Solution]  |
+| Day 51 | [Remove_Character_From_a_String.java] | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Recursion/String/A_Remove_Character_From_a_String.java) |
+| Day 52 | [Remove_A_Word_From_The_String.java] | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Recursion/String/B_Remove_A_Word_From_The_String.java) |
+| Day 53 | [SubSequenceOf_A_String.java] | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Recursion/String/C_SubSequenceOf_A_String.java) |
+| Day 54 | [Subset_Iterative.java]  |  [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Recursion/String/D_Subset_Iterative.java)  |
+| Day 55 | [Subset_Iterative_Duplicate_Elements.java] | [Solution](https://github.com/PriyabrataRoy/LeetCode-Problems/blob/main/Recursion/String/E_Subset_Iterative_Duplicate_Elements.java)  |
                   
 ---
 
